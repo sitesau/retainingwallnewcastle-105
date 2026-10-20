@@ -1,0 +1,22 @@
+{
+  "wheel_id": 489,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-105",
+  "project": "retaining-wall-repairs-newcastle-faq-34a3611c62ac63fda6392c0a57",
+  "parent_t1_ref": "retainingwallnewcastle-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining wall repairs newcastle faq",
+  "intended_url": "http://retaining-wall-repairs-newcastle-faq-34a3611c62ac63fda6392c0a57.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "17fec9ebdfc29e98",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallnewcastle-152/",
+      "anchor": "this retaining wall repairs newcastle guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
